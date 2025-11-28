@@ -1,0 +1,6 @@
+torch
+torchvision
+Pillow
+lpips
+pytorch-msssim
+matplotlib
